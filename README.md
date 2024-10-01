@@ -3,8 +3,8 @@
 ##### The model will leverage machine learning techniques to analyze transaction data and identify patterns indicative of fraudulent activity.
 
 ##### Dataset : -
-##### Description: The dataset contains transaction data with features such as time, amount, and various categorical variables.
-##### Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+###### Description:  The dataset contains transaction data with features such as time, amount, and various categorical variables.
+###### Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 ###### Key Steps
 ###### Data Exploration: Analyze the dataset for missing values, outliers, and correlations.
