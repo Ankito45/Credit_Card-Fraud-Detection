@@ -14,7 +14,7 @@
 ###### Model Evaluation: Assess performance using metrics like accuracy, precision, recall, F1-score, ROC curve.
 
 ##### Dependencies :
-######## Python (version 3.x)
-######## NumPy
-######## pandas
-######## scikit-learn
+###### Python (version 3.x)
+###### NumPy
+###### pandas
+###### scikit-learn
